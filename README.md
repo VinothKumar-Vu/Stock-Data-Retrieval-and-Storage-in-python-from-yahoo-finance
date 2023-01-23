@@ -1,5 +1,7 @@
 ## Stock-Data-Retrieval-and-Storage-in-python-from-yahoo-finance
 
+### Video demonstration --> https://www.youtube.com/watch?v=FsNPlclRfJw
+
 #### Task:
 
 ###### Gowtham is an algo trader who wants to perform some stock market analysis on ICICI bank. He wants to store the real-time stock market data of ICICI bank for this week in his database. For each day, he wants to store the data from 11.00 AM to 2.00 PM. However, he cannot afford to pay for a real-time API, so he decides to use the Python Yahoo Finance library which provides real-time data around a 15-minutes delay.
